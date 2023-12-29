@@ -1,0 +1,3 @@
+[submodule "custom-serializer"]
+	path = custom-serializer
+	url = ../custom-serializer.git
